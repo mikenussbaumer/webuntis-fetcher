@@ -1,0 +1,27 @@
+{
+  "name": "untis-fetcher",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\">Untis Fetcher</h1>",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikenussbaumer/webuntis-fetcher.git"
+  },
+  "author": "Mike Nussbaumer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikenussbaumer/webuntis-fetcher/issues"
+  },
+  "homepage": "https://github.com/mikenussbaumer/webuntis-fetcher#readme",
+  "dependencies": {
+    "dav": "^1.8.0",
+    "googleapis": "^39.2.0",
+    "ics": "^2.18.0",
+    "node-fetch": "^2.6.0",
+    "nodemon": "^1.19.3",
+    "otplib": "^11.0.1"
+  }
+}
