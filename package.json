@@ -20,7 +20,7 @@
     "dav": "^1.8.0",
     "googleapis": "^39.2.0",
     "ics": "^2.18.0",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "nodemon": "^1.19.3",
     "otplib": "^11.0.1"
   }
